@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactApi", "ReactApi\ReactApi.csproj", "{A7AF0317-C381-465E-9B8C-E419D16E7E2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7AF0317-C381-465E-9B8C-E419D16E7E2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7AF0317-C381-465E-9B8C-E419D16E7E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7AF0317-C381-465E-9B8C-E419D16E7E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7AF0317-C381-465E-9B8C-E419D16E7E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78D40053-0EEB-4CAB-AA52-B8C826B967AC}
+	EndGlobalSection
+EndGlobal
